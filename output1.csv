@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Gender,City,PurchaseAmount,Membership
+101,Alice Smith,25,Female,New York,250.75,Gold
+102,Bob Johnson,34,Male,Los Angeles,489.5,Silver
+103,Charlie Lee,29,Male,Chicago,330.0,Gold
+104,Diana King,42,Female,Houston,120.99,Platinum
+105,Evan Kim,31,Male,Phoenix,560.4,Silver
